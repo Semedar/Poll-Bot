@@ -2,6 +2,13 @@
 <hr>
 
 ## Setup
+
+### Requirements
+* discord.py==1.7.3
+* jishaku
+* pytz
+* discord
+
 ### Install requirements 
 * Install Python 3.8 from https://www.python.org/downloads/
 * When you're at the installer part, tick the PATH box. 
