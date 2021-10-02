@@ -7,8 +7,7 @@
 * When you're at the installer part, tick the PATH box. 
 * Open Command Prompt from Windows, navigate to the directory using ``cd``
 * For example, if your source code is in Desktop, you will need to ``cd desktop`` and ``cd {filename}`` before.
-  
-![img.png](img.png)
+
 * Execute ``pip install -r requirements.txt`` (without the quotation mark)
 
 ### Bot Configuration
@@ -31,4 +30,3 @@
 * The bot should be successfully running and you will see a bunch of lines saying the bot has started.
 
 ##### Thats it!
-
