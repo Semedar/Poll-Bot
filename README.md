@@ -28,5 +28,3 @@
 ### Run the bot
 * In the same command prompt window from earlier where you executed ``pip install -r requirements txt``, execute ``python3 main.py`` 
 * The bot should be successfully running and you will see a bunch of lines saying the bot has started.
-
-##### Thats it!
